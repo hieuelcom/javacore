@@ -8,14 +8,20 @@
  * @author Admin
  */
 public class mutifor {
-    public static void main(String[] aegs){
-        for(int x=0; x<4; x++){
+    public static void main(String[] aegs) {
+        for (int x = 0; x < 4; x++) {
             x++;
-            if(x==1){
-                for(int y=4; y>2; y--){
-                    System.out.println(x+""+y);
+            if (x == 1) {
+                for (int y = 4; y > 2; y--) {
+                    System.out.println(x + "" + y);
                 }
             }
         }
+    }
+}
+
+class hello {
+    public static void main(String[] args) {
+        System.out.printf("hello i am %s, i am %d age", "hieu", 19);
     }
 }
