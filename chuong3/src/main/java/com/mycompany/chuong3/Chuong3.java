@@ -15,41 +15,49 @@ public class Chuong3 {
         System.out.println("Hello World!");
     }
 }
+
 class SounDeck {
-	public boolean canRecord = false;
-    void play(){
-    	System.out.println("Playing");
+    public boolean canRecord = false;
+
+    void play() {
+        System.out.println("Playing");
     }
-     void record(){
-    	System.out.println("Recording");
+
+    void record() {
+        System.out.println("Recording");
     }
 }
-class sounDeckTestDrive{
-	public static void main(String[] args){
-    	SounDeck t = new SounDeck();
-        t.canRecord= true;
+
+class sounDeckTestDrive {
+    public static void main(String[] args) {
+        SounDeck t = new SounDeck();
+        t.canRecord = true;
         t.play();
-        if (t.canRecord ==true){
-        	t.record();
+        if (t.canRecord == true) {
+            t.record();
         }
     }
 }
-class DVDPlayer{
-	public boolean canRecord = false;
-    void playDVD(){
-    	System.out.println("DVD Playing");
+
+class DVDPlayer {
+    public boolean canRecord = false;
+
+    void playDVD() {
+        System.out.println("DVD Playing");
     }
-     void recordDVD(){
-    	System.out.println("DVD Recording");
+
+    void recordDVD() {
+        System.out.println("DVD Recording");
     }
 }
-class DVDPlayerTestDrive{
-	public static void main(String[] args){
-    	DVDPLayer d = new DVDPlayer();
-        d.canRecord= true;
+
+class DVDPlayerTestDrive {
+    public static void main(String[] args) {
+        DVDPlayer d = new DVDPlayer();
+        d.canRecord = true;
         d.playDVD();
-        if (d.canRecord ==true){
-        	d.recordDVD();
+        if (d.canRecord == true) {
+            d.recordDVD();
         }
     }
 }

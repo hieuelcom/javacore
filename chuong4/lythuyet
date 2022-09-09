@@ -1,0 +1,13 @@
+câu 1
+biến thực thể thuộc kiểu char,int,long,short có giá trị mặc định là 0
+biến thực thể thuộc thể loại boolen có giá trị mặc định là false
+các kiểu dữ liệu trong java được phân thành 2 loại: các kiểu biến thực thể và các kiểu biến địa phương
+câu 2
+a và d đúng
+b và c sai
+câu 3
+biến thực thể đc dùng để tạo bảng sao của lớp
+câu 6
+hq[1], hq[2], hq[3]
+câu7
+vì của tý đúng là tiết kiệm bộ nhớ thật tuy nhiên nó là khởi tạo 10 cái tham chiếu khác nhau trong 1 đối tượng mà 1 danh bạ của 1 chiếc điện thoại sẽ cần rất nhiều đối tượng để sao lưu danh bạ vậy nên suy ra bài của sửu thắng
