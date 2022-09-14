@@ -1,0 +1,27 @@
+câu 1
+1 lớp có thể có số lượng tùy ý các phương thức
+1 phương thức chỉ có thê có 1 đối số
+phương thức get có thể ngầm đổi kiểu dữ liệu
+phương thức set có nghĩa là tôi muốn biến thực thể của tôi ở dạng private
+biến thực thể thưc chất là 1 bản sao
+private chỉ được cập nhật bởi phương thức setter
+1 phương thức có thể có nhiều giá trị trả về
+truyền bảng giá trị trả về giá trị đó
+public không nên được dùng cho biến thực thể
+đóng gói có thể có nhiều đối số
+đối số giúp thực hiện các quy tắc đóng gói
+giá trị trả về lúc nào cũng chỉ có 1
+câu 2
+mỗi tham số phải đươc chỉ rõ 1 phương thức và 1 giá trị trả về
+từ khóa returm
+câu 3
+a sai vì cặp ngoặc
+e sai vì các biến địa phương không khởi tạo sẵn
+f sai
+câu 4
+biến thực thể được khai báo bên trong 1 lớp nhưng không nằm trong phương thức nào
+biến địa phương phải được khai báo bên trong 1 phương thức và phải được khởi tạo trước khi sử dụng đến nó
+câu 5
+Tham số là một biến trong định nghĩa phương thức. Khi một phương thức được gọi, các đối số là dữ liệu bạn truyền vào các tham số của phương thức.
+câu 6
+để che dấu dữ liệu của biến thực thể
