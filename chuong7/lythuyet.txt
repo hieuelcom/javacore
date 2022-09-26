@@ -1,0 +1,7 @@
+câu 1
+các thành viên có mức truy nhập public từ lớp cha có thể truy nhập từ trong lớp cha và con
+trong quan hệ thừa kế, một đối tượng thuộc lớp con có thể được đối xử như đối tượng thuộc lớp cha
+trong quan hệ thừa kế giữa 2 lớp, đối tượng thuộc lớp này có biến thực thể là tham chiếu tới đối tượng thuộc lớp kia
+câu 2
+b,c đúng
+a,d sai
