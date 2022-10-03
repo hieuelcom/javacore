@@ -1,0 +1,22 @@
+câu 1
+nếu 1 lớp có nhiều hơn 1 phương thức trườu tượng thì lớp đó phải là lớp con
+các lớp mà từ đó tạo ra các đối tượng được gọi là các lớp cha
+interface cho phép sử dụng tham chiếu kiểu lớp cha để gọi phương thức từ các đối tương lớp cha cũng như lớp con, cho phép ta lập trình cho trường hopwk tổng quát
+các phương thức không phải phương thức interface và không cung cấp cài đặt phương thức phải được khai báo với từ khóa abstract
+câu 2
+b đúng a sai
+câu 3
+lớp trườu tương là lớp dùng để khai thác cơ chế đa hình trong java mà Nhiệm vụ chính của chúng là
+giữ vai trò kiểu tổng quát hơn của một số các kiểu khác 
+Các phương thức trừu tượng phải được cài đè tại một lớp con. Các phương thức
+trừu tượng không có nội dung, nó tồn tại chỉ để phục vụ cơ chế đa hình. Điều đó có
+nghĩa rằng lớp cụ thể đầu tiên nằm dưới nó trên cây phả hệ bắt buộc phải cài tất cả
+các phương thức trừu tượng, các lớp con trườu tương có thể bỏ qua việc này.
+câu 4
+lớp trườu tương: là một lớp cha cho tất cả các lớp có cùng bản chất. Bản chất ở đây được hiểu là kiểu, loại, nhiệm vụ của lớp. Hai lớp cùng hiện thực một interface có thể hoàn toàn khác nhau về bản chất. Hiểu đơn giản như một thằng con (lớp con) chỉ có thể là con của một thằng cha, có tính cách giống cha (lớp trườu tương) nó.
+Interface: là một chức năng mà bạn có thể thêm và bất kì class nào. Từ chức năng ở đây không đồng nghĩa với phương thức (hoặc hàm). Interface có thể bao gồm nhiều hàm/phương thức và tất cả chúng cùng phục vụ cho một chức năng.
+câu 5
+đa hình hỗ trợ cho thừa kế Khi các lớp con cần dùng phương thức của lớp cha để bổ sung cho một phương thức khác.
+câu 6
+public, extends, abstract, interface
+câu 7
