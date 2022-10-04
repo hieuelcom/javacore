@@ -20,3 +20,6 @@ câu 5
 câu 6
 public, extends, abstract, interface
 câu 7
+đa hình cho phép nạp chồng và ghi đè phương thức, lập trình tổng quát mang lại những lợi ích như xác định cụ thể các lớp và phương thức trong ngữ cảnh khác nhau
+câu 8
+có thêm extends các lớp con
