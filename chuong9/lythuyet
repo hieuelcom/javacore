@@ -1,0 +1,12 @@
+câu 1
+a đúng
+b sai
+c đúng
+câu 2
+Từ khóa new được sử dụng để cấp phát bộ nhớ cho đối tượng.
+Lúc ta định nghĩa ra một đối tượng, chúng ta chỉ mới tạo ra nó trong "kế hoạch", trong "tưởng tượng".
+Đối tượng chưa thực sự tồn tại vì chưa được cấp phát vùng nhớ trên máy tính.
+Tiếp đó, chúng ta dùng new để chính thức cấp phát vùng nhớ cho đối tượng.
+Đến lúc này thì đối tượng mới thực sự tồn tại trong chương trình của chúng ta.
+câu 3
+hàm khởi tạo mặc định là mảng chứa các kiểu lớp tham chiếu rỗng
