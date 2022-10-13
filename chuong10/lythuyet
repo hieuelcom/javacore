@@ -1,1 +1,7 @@
- 
+câu 1
+biến static đại diện cho một thông tin mà tất cả các đối tượng thuộc
+một lớp đều dùng chung. 
+từ khóa final quy định một biến không thể sửa giá trị
+câu 2
+a e f i sai
+b c d g h j k đúng
