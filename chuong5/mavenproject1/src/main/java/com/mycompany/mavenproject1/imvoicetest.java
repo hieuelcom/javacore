@@ -9,7 +9,8 @@ public class imvoicetest {
         System.out.println(i.getpartDescription());
         System.out.println(i.getquantity());
         System.out.println(i.getunitPrice());
-        System.out.println(i.getImvoice(z););
+        double z = 0;
+        //System.out.println(i.getImvoice(z));
     }
 
 }

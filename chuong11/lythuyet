@@ -1,0 +1,16 @@
+câu 1
+try catch, try finaly, try catch finaly, throw, throws
+câu 2
+nó sẽ đi xuống khối catch và khối finaly để xem 1/2 khối này bắt được nó hay không
+câu 3
+điều khiển sẽ nhảy ra khỏi chương trình, bỏ qua phần còn lại của phương thức kể từ sau lệnh phát sinh ngoại lệ và ra khỏi phương thức hiện tại. Điều khiển sẽ quay về nơi gọi phương thức hiện tại hoặc chương trình dừng do lỗi run-time.
+câu 4
+Khi một ngoại lệ xảy ra, trình biên dịch tìm một khối catch phù hợp trong các khối catch đi kèm. Trình tự tìm là lần lượt từ khối thứ nhất đến khối cuối cùng, khối catch đầu tiên bắt được ngoại lệ đó sẽ được thực thi
+câu 5
+khối finally cho phép ta đặt các đoạn mã dọn dẹp tại một nơi thay vì phải lặp lại nó tại tất cả các điểm mà điều khiển chương trình có thể thoát ra khỏi phương thức.
+câu 6
+ngoại lệ đó vẫn rơi xuống catch
+câu 7
+ abdefghi đúng
+ cjklmn sai
+ 
